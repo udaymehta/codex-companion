@@ -1,2 +1,2 @@
 # codex-companion
-A simple RAG application to 
+A simple RAG Chatbot
